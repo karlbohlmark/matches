@@ -1,0 +1,13 @@
+{
+  "name": "matches",
+  "repo": "karlbohlmark/matches",
+  "description": "Evaluate if element matches selector",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
